@@ -1,1 +1,1 @@
-"# reverse-bulls-and-cows" 
+reverse-bulls-and-cows
